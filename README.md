@@ -91,6 +91,6 @@ Please follow the instructions for listing a RollApp:
     $pair <RollApp-ID>
     ```
 
-A community moderator will then begin a conversation with you in Discord. Please follow attentively to get the listing process fulfilled quickly.
+A community aa moderator will then begin a conversation with you in Discord. Please follow attentively to get the listing process fulfilled quickly.
 
 If you have any question please feel free to reach out to the coreteam and community on Discord. We're here for you!
